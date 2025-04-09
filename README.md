@@ -26,7 +26,7 @@ information or see https://opensource.org/licenses/MIT.
 
 Optimizing Your Node for Maximum Performance and Efficiency
 -------------------
-Config Readme found here.
+[Config Readme found here.](https://github.com/RavenProject/Ravencoin/blob/master/Config-README.md)
 
 
 Development Process
